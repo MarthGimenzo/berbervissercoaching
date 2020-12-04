@@ -1,5 +1,16 @@
 body {
     font-family: 'Playfair Display', serif;
+    background-image: url("bgberber2.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+p {
+    font-size: 20px;
 }
 
 .navlogo {
@@ -8,4 +19,10 @@ body {
 
 .nav-link {
     font-size: 20px;
+    color: black!important;
+}
+
+.nav-link:hover {
+    color: grey!important;
+    font-weight: 800;
 }
