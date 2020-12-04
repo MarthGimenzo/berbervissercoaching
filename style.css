@@ -1,0 +1,11 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+.navlogo {
+    max-height: 100px;
+}
+
+.nav-link {
+    font-size: 20px;
+}
